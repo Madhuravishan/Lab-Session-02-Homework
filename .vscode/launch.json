@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open SImpleTags.html",
+            "file": "d:\\UOM Academic\\Semester 03\\Subject\\IN2201 Software Engineering\\Lab02\\Lab-Session-02-Homework\\SImpleTags.html"
+        }
+    ]
+}
